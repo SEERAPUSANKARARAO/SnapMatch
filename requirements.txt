@@ -14,3 +14,6 @@ fire>=0.4.0
 gunicorn>=20.1.0
 tf-keras==2.16.0 
 deepface==0.0.91
+
+#for installation of local packages
+-e .
