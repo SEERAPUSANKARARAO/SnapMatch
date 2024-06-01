@@ -1,0 +1,102 @@
+
+D:.
+�   .gitignore
+�   app.py
+�   folder_structure.txt
+�   requirements.txt
+�   setup.py
+�   stremlit_app_v1.py
+�   
+����experiments
+�       test.ipynb
+�       testing.py
+�       test_case_2.py
+�       
+����imge_find_env
+�   �   package_info.json
+�   �   pyvenv.cfg
+�   �   README.md
+�   �   requirements.txt
+�                   
+����my_files
+�       ds_model_facenet_detector_opencv_aligned_normalization_base_expand_0.pkl
+�       ds_model_sface_detector_opencv_aligned_normalization_base_expand_0.pkl
+�       gettyimages-2076181995-2048x2048.jpg
+�       gettyimages-2076186637-2048x2048.jpg
+�       gettyimages-2076186638-2048x2048.jpg
+�       gettyimages-2076235215-2048x2048.jpg
+�       gettyimages-2076237818-2048x2048.jpg
+�       gettyimages-2076870233-2048x2048.jpg
+�       gettyimages-2076870235-2048x2048.jpg
+�       gettyimages-2076870237-2048x2048.jpg
+�       gettyimages-2076870238-2048x2048.jpg
+�       gettyimages-2081604885-2048x2048.jpg
+�       gettyimages-2081619340-2048x2048.jpg
+�       gettyimages-2081619343-2048x2048.jpg
+�       gettyimages-2094627820-2048x2048.jpg
+�       gettyimages-2094627821-2048x2048.jpg
+�       gettyimages-2094628357-2048x2048.jpg
+�       gettyimages-2094628358-2048x2048.jpg
+�       gettyimages-2094628884-2048x2048.jpg
+�       gettyimages-2094629415-2048x2048.jpg
+�       gettyimages-2094629950-2048x2048.jpg
+�       gettyimages-2094633218-2048x2048.jpg
+�       gettyimages-2094634201-2048x2048.jpg
+�       gettyimages-2094701666-2048x2048.jpg
+�       KilianParis_Cannes_SayWho_SherazDebbich_2023-6935.jpg-768x1152.jpeg
+�       Nicolas-Cage-2009.webp
+�       
+����output
+�       gettyimages-2081604885-2048x2048.jpg
+�       
+����pic
+�       ds_model_arcface_detector_opencv_aligned_normalization_base_expand_0.pkl
+�       ds_model_deepface_detector_opencv_aligned_normalization_base_expand_0.pkl
+�       ds_model_deepid_detector_opencv_aligned_normalization_base_expand_0.pkl
+�       ds_model_dlib_detector_opencv_aligned_normalization_base_expand_0.pkl
+�       ds_model_facenet512_detector_opencv_aligned_normalization_base_expand_0.pkl
+�       ds_model_facenet_detector_opencv_aligned_normalization_base_expand_0.pkl
+�       ds_model_ghostfacenet_detector_opencv_aligned_normalization_base_expand_0.pkl
+�       ds_model_openface_detector_opencv_aligned_normalization_base_expand_0.pkl
+�       ds_model_sface_detector_opencv_aligned_normalization_base_expand_0.pkl
+�       ds_model_vggface_detector_opencv_aligned_normalization_base_expand_0.pkl
+�       gettyimages-2076181995-2048x2048.jpg
+�       gettyimages-2076186637-2048x2048.jpg
+�       gettyimages-2076186638-2048x2048.jpg
+�       gettyimages-2076235215-2048x2048.jpg
+�       gettyimages-2076237818-2048x2048.jpg
+�       gettyimages-2076870233-2048x2048.jpg
+�       gettyimages-2076870235-2048x2048.jpg
+�       gettyimages-2076870237-2048x2048.jpg
+�       gettyimages-2076870238-2048x2048.jpg
+�       gettyimages-2081604885-2048x2048.jpg
+�       gettyimages-2081619340-2048x2048.jpg
+�       gettyimages-2081619343-2048x2048.jpg
+�       gettyimages-2094627820-2048x2048.jpg
+�       gettyimages-2094627821-2048x2048.jpg
+�       gettyimages-2094628357-2048x2048.jpg
+�       gettyimages-2094628358-2048x2048.jpg
+�       gettyimages-2094628884-2048x2048.jpg
+�       gettyimages-2094629415-2048x2048.jpg
+�       gettyimages-2094629950-2048x2048.jpg
+�       gettyimages-2094633218-2048x2048.jpg
+�       gettyimages-2094634201-2048x2048.jpg
+�       gettyimages-2094701666-2048x2048.jpg
+�       KilianParis_Cannes_SayWho_SherazDebbich_2023-6935.jpg-768x1152.jpeg
+�       Nicolas-Cage-2009.webp
+�       
+����src
+�       snapmatcher.py
+�       __init__.py
+�       
+����temp
+�       Robert_Downey_Jr.webp
+�       
+����testing_images_1
+�       gettyimages-2076186637-2048x2048.jpg
+�       gettyimages-2094628358-2048x2048.jpg
+�       Nicolas-Cage-2009.webp
+�       
+����test_images
+        Robert_Downey_Jr.webp
+        
